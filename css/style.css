@@ -1,0 +1,29 @@
+.panel{
+	margin-top: 10px;
+}
+.well{
+	margin-bottom:0px;
+}
+.title{
+	margin:0 0 0 0;
+	padding-top: 50px;
+	text-align: center;
+	color:aqua;
+	height:150px;
+	background-color:#2980b9;
+
+}
+.img{
+	padding-top:50px;
+}
+.login-div{
+	margin-left:45x;
+
+}
+.err{
+
+	color:#FF0000;
+	font-weight:bold;
+	text-align: center; 
+	margin-bottom:20px;
+}
