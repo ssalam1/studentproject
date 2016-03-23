@@ -21,7 +21,7 @@ include "resources/header.html";
                         <marquee>
                             <h2>Please fill All The Fields</h2>
                         </marquee>
-                        <form  role ="form" name="register" method="post" action="insert.php"style="background:url(../images/1.jpg) ;" onsubmit="return finalCheck()" enctype="mutipart/form-data" >
+                        <form  role ="form" name="register" method="post" action="insert.php" onsubmit="return finalCheck()" enctype="mutipart/form-data" >
                             <fieldset>
                                 
                                     <div class="panel-group">
@@ -271,7 +271,7 @@ include "resources/header.html";
                                             </div>
                                         </div>
                                     </fieldset>
-                                     <fieldset>
+                                    <fieldset>
                                     <div class="panel-group">
                                         <div class="panel panel-info ">
                                             <div class="panel-heading">
